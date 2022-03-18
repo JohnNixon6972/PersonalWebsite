@@ -1,0 +1,20 @@
+{
+    "name": "John Nixon",
+    "short_name": "John Nixon",
+    "display": "standalone",
+    "description": "Get to know about John here.",
+    "start_url": "/",
+    "theme_color": "#cfcfd1",
+    "background_color": "#232531",
+    "icons": [{
+            "src": "icon.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
